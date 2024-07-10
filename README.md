@@ -41,9 +41,9 @@ Contributions are welcome! To contribute:
 4. Submit a pull request.
 
 ## Future Improvements
-Enhanced Screen Writing Method: Improve the method to rewrite the entire screen efficiently, reducing flicker and latency.
-Optimized Buffer Method: Modify the buffer to store the segment code instead of buffering the entire segment state. This will improve memory usage and update performance.
-Additional Character Support: Expand the library to support more characters and possibly custom character encoding.
+- [ ] Enhanced Screen Writing Method: Improve the method to rewrite the entire screen efficiently, reducing flicker and latency.
+- [ ] Optimized Buffer Method: Modify the buffer to store the segment code instead of buffering the entire segment state. This will improve memory usage and update performance.
+- [ ] Additional Character Support: Expand the library to support more characters and possibly custom character encoding.
 
 ## License
 This project is licensed under the GNU General Public License v3.0. See the LICENSE file for details.
